@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/entertainment-web-app-fem/",
+  base: "/entertainment-web-app/",
   build: {
     outDir: "dist",
     rollupOptions: {

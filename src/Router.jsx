@@ -1,6 +1,6 @@
 import { createContext, useContext, useState, useEffect, useCallback } from "react";
 
-const repoName = "/entertainment-web-app-fem";
+const repoName = "/entertainment-web-app";
 
 export const paths = {
   home: repoName + "/",
